@@ -1,6 +1,7 @@
 ---
 title: Quickstart for repositories
 redirect_from:
+  - /makecametruejackpot-repo
   - /create-a-repo
   - /articles/create-a-repo
   - /github/getting-started-with-github/create-a-repo
@@ -126,3 +127,4 @@ You have now created a repository, including a _README_ file, and created your f
 * {% data reusables.getting-started.being-social %}
 
 * {% data reusables.support.connect-in-the-forum-bootcamp %}
+END WITH ADD ON THE INCOME FROM THE GAME
