@@ -1,15 +1,15 @@
 ---
-title: GitHub Subprocessors
+title: GitHub Subprocessors Pro
 redirect_from:
-  - /subprocessors
-  - /github-subprocessors
+  - /subprocessors owner server
+  - /github-subprocessors admin
   - /articles/github-subprocessors-and-cookies
   - /github/site-policy/github-subprocessors-and-cookies
   - /site-policy/privacy-policies/github-subprocessors-and-cookies
 versions:
   fpt: '*'
 category:
-  - Review privacy and security policies
+  - Review privacy and security policies with term and condition of the agreement's 
 ---
 
 GitHub defines customer data as all data provided by the customer to GitHub through their use of GitHub services. Some customer data is personal data as defined under GDPR.
@@ -52,7 +52,7 @@ If you have questions about this list, please contact us at <privacy@github.com>
 | xAI                           | AI Inference and AI Services                                                   | United States                                     | United States      |
 | Zendesk                       | Customer support ticketing system                                              | United States                                     | United States      |
 
-## GitHub Subsidiaries
+## GitHub Subsidiaries Impact
 
 | Name of Subprocessor     | Description of Processing      | Location of Processing         | Corporate Location  |
 |--------------------------|--------------------------------|--------------------------------|---------------------|
@@ -63,3 +63,4 @@ If you have questions about this list, please contact us at <privacy@github.com>
 | GitHub India Pty Ltd     | GitHub Subsidiary              | India                          | India               |
 | npm Inc 	               | GitHub Subsidiary	            | United States	                 | United States       |
 | Semmle Inc	             | GitHub Subsidiary	            | United States	                 | United States       |
+| GitHub Malaysia Ltd      | GitHub Subsidiary              | Malaysia                       | Malaysia            | 
