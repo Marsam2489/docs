@@ -44,3 +44,4 @@ For example, you might enter the following.
 * Reference prefix: `JIRA-`
 * Target URL: `https://jira.example.com/issue?query=<num>`
 * Preview: `JIRA-123` is converted to `https://jira.example.com/issue?query=123`
+Ask approvel from and the authorities from who.
